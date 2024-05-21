@@ -1,6 +1,6 @@
 
-.node_modules
-.env
+node_modules
+env
 
 ### AL ###
 #Template for AL projects for Dynamics 365 Business Central
