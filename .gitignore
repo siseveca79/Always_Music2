@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 node_modules
 .env
 =======
+=======
+>>>>>>> f6fc3760e55364bb8fa4719c52b94dbf25e07691
 ### AL ###
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
@@ -23,5 +26,9 @@ rad.json
 #License-file
 *.flf
 #Test results file
+<<<<<<< HEAD
 TestResults.xml
 >>>>>>> c097940dcbc7e5728feee567524fc408c8b1606c
+=======
+TestResults.xml
+>>>>>>> f6fc3760e55364bb8fa4719c52b94dbf25e07691
